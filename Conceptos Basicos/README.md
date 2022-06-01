@@ -1,0 +1,2 @@
+# Introduccion a JavaScript
+ JavaScript es un lenguaje para el desaroollo web, pero al paso del tiempo se ha logrado introducir en otras plataformas, por ejemplo actualmente tambien se usa para el desarrollo mobile,videojuegos y aplicaciones de escritorio.
